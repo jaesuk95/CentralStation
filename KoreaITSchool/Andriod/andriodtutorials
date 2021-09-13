@@ -1,1 +1,23 @@
 tutorial lessons learnt (extra course due to delay schedule from KoreaIT bootcamp)
+
+Core Elements to Andriod Development
+
+Activity            - A rectangular area that displays something
+
+onCreate()          - The first method that will fire when an Activity is loaded 
+
+findViewById()      - A way to locate resources in your Activity
+
+Intent              - An action being requested that the device should try to perform
+
+getIntent()         - gets the Intent that was passed to an activity
+
+IntentService       - Services that can handle intent requests and process the work to be done
+
+BroadcastReceivers  - Receives an intent from a sendBroadcast method often indicating that some work has been completed
+
+putExtra()          - passes data as a key - value pair
+
+getExtras().getString() - retrieved the String that was passed to the Intent object
+
+StartActivity()     - used to launch another Activity 
