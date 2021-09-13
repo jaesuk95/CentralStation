@@ -1,0 +1,13 @@
+MainActivity summary : LayoutInflater class experiment
+
+FirstActivity & SecondActivity summaries : buttons to respond back and forth 
+  a.) Button (findViewById)
+  b.) Intent technique 
+  c.) ActivityResultLauncher<Intent>
+  d.) Bundle
+  
+DataMainActivity & SecondActivity & ParcelData summaries : 
+  a.) ParcelData
+  b.) Intent
+  c.) ActivityResultLauncher<Intent>
+  d.) ActivityResultsContracts.StartActivityForResult()
